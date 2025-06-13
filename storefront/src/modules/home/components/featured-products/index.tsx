@@ -12,5 +12,6 @@ export default async function FeaturedProducts({
     <li key={collection.id}>
       <ProductRail collection={collection} region={region} />
     </li>
+
   ))
 }
