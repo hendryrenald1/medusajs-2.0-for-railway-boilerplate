@@ -54,7 +54,7 @@ const Hero = () => {
 						height={500}
 						className="w-full h-auto max-w-md"
 						priority
-					/>
+					/> 
 					{/* Features on mobile below image */}
 					{typeof window !== 'undefined' && (
 						<div className="grid grid-cols-1 gap-4 mt-6 w-full max-w-md md:hidden">

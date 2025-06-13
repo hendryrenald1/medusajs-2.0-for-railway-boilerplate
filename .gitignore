@@ -1,1 +1,14 @@
 .idea/
+.next/
+node_modules/
+.DS_Store
+# Logs
+logs/
+npm-debug.log*
+# Build output
+dist/
+# Dependency directories
+bower_components/
+# Optional npm cache directory
+.npm/
+# Optional REPL history
