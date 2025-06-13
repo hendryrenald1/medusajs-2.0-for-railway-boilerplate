@@ -21,7 +21,6 @@ export default async function Nav() {
           </div>
 
           <div className="flex items-center h-full">
-            <h1> Finally changes reflecintg </h1>
             <LocalizedClientLink
               href="/"
               className="txt-compact-xlarge-plus hover:text-ui-fg-base uppercase"
